@@ -156,7 +156,9 @@ SECURITY      ████████████░░░░░░░░  Side
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aaf091&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaf091&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800)](https://github.com/aaf091)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaf091&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8)](https://github.com/aaf091)
+&nbsp;&nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=aaf091&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -171,13 +173,3 @@ SECURITY      ████████████░░░░░░░░  Side
 ![Visitor Count](https://komarev.com/ghpvc/?username=aaf091&color=00d9ff&style=flat&label=profile+views)
 
 </div>
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-aaf091/aaf091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
