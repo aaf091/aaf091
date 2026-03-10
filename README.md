@@ -154,11 +154,13 @@ SECURITY      ████████████░░░░░░░░  Side
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aaf091&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaf091&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8)](https://github.com/aaf091)
-&nbsp;&nbsp;
-[![trophy](https://github-profile-trophy.vercel.app/?username=aaf091&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Actions generates this snake — set it up once and it auto-updates daily -->
+<!-- Setup: https://github.com/Platane/snk — add workflow to your profile repo -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaf091/aaf091/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaf091/aaf091/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aaf091/aaf091/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
