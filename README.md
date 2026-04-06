@@ -106,6 +106,26 @@ ChipWhisperer Lite + STM32 targets
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+ 
+### 🟣 [peak-charge](https://github.com/aaf091/peak-charge)
+**Workplace EV Charging Demand Prediction**
+```
+NREL dataset · 40k sessions · RF classifier
+├── AUC-ROC 0.87 · Recall 92.7% @ threshold 0.40
+├── Session monitoring agent — real-time flagging
+├── Model maintenance agent — drift + auto-retrain
+└── 87.1% of high-demand energy captured
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat&logo=anthropic&logoColor=white)
+ 
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
