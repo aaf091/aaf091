@@ -226,7 +226,7 @@ SYSTEMS     Concurrency · distributed systems · profiling · CUDA/Triton · AR
 <div align="center">
 
 ```
-/* always building. always shipping. */
+always building. always shipping.
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aaf091&color=00d9ff&style=flat&label=profile+views)
